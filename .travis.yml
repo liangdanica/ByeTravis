@@ -3,7 +3,7 @@ sudo: false
 install: true
 addons:
   sonarcloud:
-    organization: liangdanica-github
+    organization: "liangdanica-github"
     token:
       secure: 4c5d8b08d503239bdcbb77327ca2e93296c14606
 jdk:
